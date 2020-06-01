@@ -12,3 +12,7 @@ Wait for Bot to send RAISR output picture.
 
 # Model
 Filter for anime pictures.
+
+# Potential problems
+1. The output image may exceed the Discord limit.
+2. RAISR output time is too long.
