@@ -1,5 +1,7 @@
-# RAISR_Bot
-A simple discord RAISR bot.
+# ML_Bot
+A simple discord ML bot.  
+1. Chinese typo correction use [corrector](https://github.com/WoodManGitHub/corrector).
+2. RAISR
 
 # How to use
 ```
@@ -11,7 +13,8 @@ Send pictures to bot with private message.
 Wait for Bot to send RAISR output picture.
 
 # Model
-Filter for anime pictures.
+RAISR: Filter for anime pictures.
+Corrector: BERT-Chinese
 
 # Potential problems
 1. The output image may exceed the Discord limit.
