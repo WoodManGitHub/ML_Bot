@@ -1,6 +1,6 @@
 # ML_Bot
 A simple discord ML bot.  
-1. Chinese typo correction use [corrector](https://github.com/WoodManGitHub/corrector).
+1. Chinese typo correction use [corrector](https://github.com/WoodManGitHub/corrector). (Future)
 2. RAISR
 
 # How to use
@@ -14,7 +14,7 @@ Wait for Bot to send RAISR output picture.
 
 # Model
 RAISR: Filter for anime pictures.  
-Corrector: BERT-Chinese
+Corrector: BERT-Chinese (Future)
 
 # Potential problems
 1. The output image may exceed the Discord limit.
