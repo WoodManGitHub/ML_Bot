@@ -13,7 +13,7 @@ Send pictures to bot with private message.
 Wait for Bot to send RAISR output picture.
 
 # Model
-RAISR: Filter for anime pictures.
+RAISR: Filter for anime pictures.  
 Corrector: BERT-Chinese
 
 # Potential problems
