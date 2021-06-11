@@ -8,5 +8,5 @@ multidict==4.7.6
 numpy==1.18.4
 opencv-python==4.2.0.34
 scipy==1.1.0
-websockets==8.1
+websockets==9.1
 yarl==1.4.2
